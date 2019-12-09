@@ -1,0 +1,63 @@
+body {
+
+	background-image: url(dana.jpg); 
+}
+.uvod {background: #282e2d;
+padding-left:15px;
+border:solid 2px black;
+
+}
+.naslov {font-size: 40px;
+ font-family:times;
+ letter-spacing: 3px;
+ color:#c9d1ca;
+
+
+}
+.podnaslov {
+font-size: 20px;
+
+font-family:arial;
+color: #c9d1ca;
+}
+.insta {
+
+float: right;
+border-radius: 7px
+
+}
+.crno {background-color: black;}
+.navigacija {
+	background-color: #282e2d;
+	overflow: hidden;
+
+
+
+}
+.navigacija a {
+float: left;
+color: #c9d1ca;
+text-align: center;
+padding:14px 16px;
+text-decoration: none;
+font-size: 17px;
+
+
+}
+.navigacija a:hover {
+	background-color: black;
+	color: #c9d1ca;
+
+
+}
+.navigacija a:active{
+	background-color: white;
+	
+
+ 
+}
+.insta {opacity: 0.9;
+float: down;
+
+}
+
